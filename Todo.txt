@@ -1,0 +1,7 @@
+1. Wake up
+2. Breakfast
+3. Watch TV
+4. Lunch
+5. Office
+6. Study
+7. Dinner
