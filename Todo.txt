@@ -5,3 +5,6 @@
 5. Office
 6. Study
 7. Dinner
+8. Sleep
+9.DEEP SLEEP
+10. Repeat
